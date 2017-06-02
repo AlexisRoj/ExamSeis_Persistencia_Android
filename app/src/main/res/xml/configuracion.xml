@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <PreferenceCategory android:title="Componentes de texto">
+
+        <EditTextPreference
+            android:key="nombreUsuario"
+            android:title="@string/nombUser"
+            android:summary="@string/descNombUser"/>
+
+    </PreferenceCategory>
+
+    <PreferenceCategory android:title="Componentes de texto">
+
+        <EditTextPreference
+            android:key="passUser"
+            android:title="@string/passUser"
+            android:summary="@string/descPassUser"/>
+
+    </PreferenceCategory>
+
+
+    <SwitchPreference
+        android:key="notifyMail"
+        android:title="@string/notifyMail"
+        android:summary="@string/descNotifyMail"/>
+
+
+
+</PreferenceScreen>

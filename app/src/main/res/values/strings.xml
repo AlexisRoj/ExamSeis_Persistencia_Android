@@ -1,0 +1,52 @@
+<resources>
+    <string name="app_name">ProyectoFinalUnidadSeisV2</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+    <string name="title_Login">Ingreso al sistema</string>
+    <string name="txtTitleLogin">Bienvenidos a Parking Control</string>
+    <string name="txtAsistenciaLogin">Inicia sección para comenzar</string>
+    <string name="userNameLogin">Nombre de Usuario</string>
+    <string name="userNamePass">Contraseña</string>
+    <string name="recordarme">Recordarme</string>
+    <string name="ingresarLogin">Ingresar</string>
+    <string name="emptyText">No puede existir campos vacios</string>
+    <string name="parking">Parking</string>
+    <string name="cuenta">Cuenta</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="nombre_app">Parking Control</string>
+    <string name="nombUser">Nombre de Usuario</string>
+    <string name="descNombUser">El nombre con el que se identifica en la APP</string>
+    <string name="passUser">Contraseña del usuario</string>
+    <string name="descPassUser">Clave para iniciar seccion en la app</string>
+    <string name="notifyMail">Notificaciones por correo</string>
+    <string name="descNotifyMail">Recibe notificaciones de la aplicacion, noticias e informacion relevante en tu cuenta</string>
+    <string name="spinner_vehiculo">Elija el tipo de vehiculo</string>
+    <string name="btnCancelar">Cancelar</string>
+    <string name="btnAgregar">Agregar</string>
+    <string name="no_de_matricula">No. de Matricula</string>
+    <string name="id_del_cliente">ID del cliente</string>
+    <string name="exportar_registros">Exportar Registros</string>
+    <string name="logout">Cerrar sección</string>
+    <string name="exportWithClear">Sin conservar los registros localmente</string>
+    <string name="exportWithoutClear">Conservando los registros localmente</string>
+    <string name="btnOk">Aceptar</string>
+    <string name="btnCancel">Cancelar</string>
+    <string name="matricula">Matricula:</string>
+    <string name="no_id">No. Identificación</string>
+
+    <!--Array Spinner Vehiculo-->
+
+    <string-array name="tiposVehiculos">
+
+        <item>Sedan</item>
+        <item>PickUp</item>
+        <item>OFFRoad</item>
+        <item>Coupe</item>
+    </string-array>
+
+</resources>
